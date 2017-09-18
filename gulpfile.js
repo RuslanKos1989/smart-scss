@@ -12,7 +12,6 @@ var gulp           = require('gulp'),
 	autoprefixer   = require('gulp-autoprefixer'),
 	ftp            = require('vinyl-ftp'),
 	notify         = require("gulp-notify"),
-	smartgrid 	   = require('smart-grid'),
 	gcmq 		   = require('gulp-group-css-media-queries');
 
 // Скрипты проекта  
